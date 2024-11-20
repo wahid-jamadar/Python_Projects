@@ -14,13 +14,21 @@ Hi there! I'm Wahid Jamdar, a Computer Science & Engineering student at DY Patil
 
 Here’s a brief overview of some notable Python projects in this repository:  
 
-### 1. **[Project Name]**
-   - **Description**: Brief overview of what the project does.
-   - **Technologies Used**: `Python`, `Library/Frameworks`
-   - **Features**:
-     - Highlight 1
-     - Highlight 2
-   - **Usage**: How to use this project (if applicable).
+### 1. Countdown Timer
+Description:<br>
+      A simple Python-based countdown timer that allows users to input a duration in hours, minutes, and seconds, then counts down to zero while displaying the time left dynamically. This can be used as a basic timer for tasks, workouts, study sessions, or any time-sensitive activity.
+
+Technologies Used:
+
+Libraries/Frameworks:
+time: For handling time-related functions.
+tkinter (optional): For creating a graphical user interface (GUI).
+
+Features:
+1. Dynamic Time Display: Continuously updates and displays the remaining time in real-time.
+2. Alert at Completion: Provides a sound or visual alert when the countdown ends.<br>
+3.Input Flexibility: Allows users to input time in hours, minutes, and seconds.<br>
+4.Customizable Appearance: Optional GUI can include color themes, fonts, and additional features like pause/reset buttons.
 
 ### 2. **[Project Name]**
    - **Description**: Brief overview of what the project does.
