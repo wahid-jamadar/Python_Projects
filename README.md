@@ -153,6 +153,31 @@ The Doraemon project is a simple Python graphics program that uses the turtle gr
 - Fun and Engaging: A creative way to use Python for drawing cartoon characters.
 
 ---
+### Expense Tracker (project_expense_tracker.py)
+This is a simple Python-based expense tracker that allows users to record and manage their expenses. It supports adding, viewing, categorizing, and deleting expenses, and also provides a summary of total expenses by category.
+
+#### Technologies Used
+*Libraries/Frameworks:*
+- sqlite3: For managing the expense data in an SQLite database.
+- datetime: For timestamping the expenses with the current date and time.
+
+#### Features
+- Add Expense: Allows users to input expenses along with their categories and amounts.
+- View Expenses: Displays a list of all recorded expenses with their details.
+- Total by Category: Summarizes the total expenses for each category.
+- Delete Expense: Provides the option to delete a specific expense using its ID.
+- Dynamic Updates: The database is updated in real-time as users add or delete expenses.
+
+#### Usage
+1. Run the Python script.
+2. Choose from the following options:
+3. Add a new expense with category and amount.
+4. View all recorded expenses.
+5. View total expenses by category.
+6. Delete an expense by entering its ID.
+7. The program will update the database and display the relevant information.
+
+---
 
 ### Hangman (project_hangman.py)
 The Hangman project is a simple Python-based game that allows a player to guess a word by suggesting letters within a certain number of attempts. The goal is to guess the word before running out of tries, making it a fun and challenging word game.
